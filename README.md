@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## Languages I Am Most Interested In
+
+I have a deep interest in the following programming languages:
+<p>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+  <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+
 <!--
 **hdezgrs/hdezgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
