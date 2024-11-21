@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alberto
+
 ## Languages I Am Most Interested In
 
 I have a deep interest in the following programming languages:
@@ -9,6 +11,10 @@ I have a deep interest in the following programming languages:
   <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
+
+## Technologies I Am Most Interested In
+
+### ![AI](https://img.shields.io/badge/AI-%2300A1D7.svg?style=for-the-badge&logo=ai&logoColor=white) ![ML](https://img.shields.io/badge/ML-%23FF6F00.svg?style=for-the-badge&logo=machinelearning&logoColor=white) ![DL](https://img.shields.io/badge/DL-%23FF7F50.svg?style=for-the-badge&logo=deep-learning&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-%23106E9B.svg?style=for-the-badge&logo=blockchain&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-%232CA5E0.svg?style=for-the-badge&logo=robotics&logoColor=white)
 
 <!--
 **hdezgrs/hdezgrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
