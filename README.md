@@ -22,6 +22,10 @@ I have a deep interest in the following programming languages:
 
 ![FIREFOX NIGHTLY](https://img.shields.io/badge/Firefox-%230F00B0?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
+## Operative System
+
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
 ## VideoGame Platforms
 I really enjoy extreme multiplayer survival games as well as immersive singleplayer experiences. 
 
