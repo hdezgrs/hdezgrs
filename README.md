@@ -24,7 +24,7 @@ I have a deep interest in the following programming languages:
 
 ## Operative System
 
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 ## VideoGame Platforms
 I really enjoy extreme multiplayer survival games as well as immersive singleplayer experiences. 
